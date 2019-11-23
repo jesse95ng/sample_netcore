@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{841BE7AE-78A9-48EA-8B30-F37F6D98F73A}|Default">
+  <MonoDevelop.Ide.ItemProperties.sample__netcore PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="sample_netcore/sample_netcore.csproj">
+    <Files>
+      <File FileName="sample_netcore/sample_netcore.csproj" Line="16" Column="41" />
+      <File FileName="sample_netcore/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sample_netcore" expanded="True" selected="True">
+            <Node name="sample_netcore.Domain" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

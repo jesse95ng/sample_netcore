@@ -1,0 +1,201 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/sample_netcore/sample_netcore.csproj": {}
+  },
+  "projects": {
+    "/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Domain/sample_netcore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Domain/sample_netcore.Domain.csproj",
+        "projectName": "sample_netcore.Domain",
+        "projectPath": "/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Domain/sample_netcore.Domain.csproj",
+        "packagesPath": "/Users/jessenguyen/.nuget/packages/",
+        "outputPath": "/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jessenguyen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Models/sample_netcore.Models.csproj": {
+                "projectPath": "/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Models/sample_netcore.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Models/sample_netcore.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Models/sample_netcore.Models.csproj",
+        "projectName": "sample_netcore.Models",
+        "projectPath": "/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Models/sample_netcore.Models.csproj",
+        "packagesPath": "/Users/jessenguyen/.nuget/packages/",
+        "outputPath": "/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Models/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jessenguyen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/sample_netcore/sample_netcore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/sample_netcore/sample_netcore.csproj",
+        "projectName": "sample_netcore",
+        "projectPath": "/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/sample_netcore/sample_netcore.csproj",
+        "packagesPath": "/Users/jessenguyen/.nuget/packages/",
+        "outputPath": "/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/sample_netcore/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jessenguyen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Domain/sample_netcore.Domain.csproj": {
+                "projectPath": "/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Domain/sample_netcore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

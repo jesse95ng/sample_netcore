@@ -1,0 +1,9 @@
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Models/bin/Debug/netcoreapp2.2/sample_netcore.Models.deps.json
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Models/bin/Debug/netcoreapp2.2/sample_netcore.Models.dll
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Models/bin/Debug/netcoreapp2.2/sample_netcore.Models.pdb
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Models/obj/Debug/netcoreapp2.2/sample_netcore.Models.csprojAssemblyReference.cache
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Models/obj/Debug/netcoreapp2.2/sample_netcore.Models.AssemblyInfoInputs.cache
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Models/obj/Debug/netcoreapp2.2/sample_netcore.Models.AssemblyInfo.cs
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Models/obj/Debug/netcoreapp2.2/sample_netcore.Models.dll
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Models/obj/Debug/netcoreapp2.2/sample_netcore.Models.pdb
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Models/obj/Debug/netcoreapp2.2/sample_netcore.Models.csproj.CoreCompileInputs.cache

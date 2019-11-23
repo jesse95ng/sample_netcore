@@ -1,0 +1,12 @@
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Domain/bin/Debug/netcoreapp2.2/sample_netcore.Domain.deps.json
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Domain/bin/Debug/netcoreapp2.2/sample_netcore.Domain.dll
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Domain/bin/Debug/netcoreapp2.2/sample_netcore.Domain.pdb
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Domain/bin/Debug/netcoreapp2.2/sample_netcore.Models.dll
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Domain/bin/Debug/netcoreapp2.2/sample_netcore.Models.pdb
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Domain/obj/Debug/netcoreapp2.2/sample_netcore.Domain.csprojAssemblyReference.cache
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Domain/obj/Debug/netcoreapp2.2/sample_netcore.Domain.AssemblyInfoInputs.cache
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Domain/obj/Debug/netcoreapp2.2/sample_netcore.Domain.AssemblyInfo.cs
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Domain/obj/Debug/netcoreapp2.2/sample_netcore.Domain.csproj.CopyComplete
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Domain/obj/Debug/netcoreapp2.2/sample_netcore.Domain.dll
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Domain/obj/Debug/netcoreapp2.2/sample_netcore.Domain.pdb
+/Users/jessenguyen/Self-Training/sample_netcore/sample_netcore/Domain/obj/Debug/netcoreapp2.2/sample_netcore.Domain.csproj.CoreCompileInputs.cache
